@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+  border: 2px solid black;
+  font-weight: 750
+}
+
+h2 {
+  color: purple;
+  font-weight: bold;
+}
+
+.first-paragraph {
+  color: brown;
+}
+
+.second-paragraph {
+  color: green;
+}
